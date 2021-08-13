@@ -1,0 +1,36 @@
+footer .socials li .icon{
+    cursor: pointer;
+    
+}
+
+footer .socials li .icon path:hover{
+    fill: var(--color-hover);
+    
+}
+
+footer .rights{
+    color: var(--color-gray-dark);
+}
+
+footer ul li a:hover{
+    color: var(--color-hover);
+}
+
+footer ul{
+    padding-left: 0;
+}
+
+footer ul li{
+    list-style: none;
+    display: inline-block;
+}
+
+footer .mid-list li{
+    width: 50%;
+    margin-bottom: 20px;
+}
+
+footer ul li a{
+    text-decoration: none;
+    color: var(--color-white);
+}
