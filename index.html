@@ -4,9 +4,6 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-
-
     <link rel="stylesheet" href="/node_modules/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="/dist/style.css">
     <title>Easy Bank</title>
@@ -17,7 +14,7 @@
 
     <header>
 
-            <div class="wrapper">
+            <div class="wrapper pb-3">
                 <div class="mycontainer">
                     <nav class="navbar navbar-expand-lg navbar-light mt-3 " id="navbar-id">
                         <div class="container-fluid justify-content-around">
@@ -26,7 +23,7 @@
                             <span class="navbar-toggler-icon"></span>
                           </button>
                           <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
-                            <ul class="navbar-nav">
+                            <ul class="navbar-nav text-center text-lg-start mt-5 mt-lg-0">
                               <li class="nav-item">
                                 <a class="nav-link me-4" aria-current="page" href="#">Home</a>
                               </li>
@@ -59,10 +56,10 @@
        
            
      
-        <div class="bg-img"></div>
-        <div class="mycontainer">
-            <div class="row">
-                <div class="col-6">
+       
+        <div class="bgcontainer">
+            <div class="row d-flex flex-column-reverse flex-xl-row text-center text-xl-start">
+                <div class="col-10 mx-auto mx-lg-0 col-xl-6 mt-5 mt-xl-0">
                     <div class="welcome-msg">
                         <h1  class="mb-4">Next generation digital banking</h1>
                         <p class="mb-4"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt quis at aliquid ab harum. Blanditiis Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam.?</p>
@@ -72,8 +69,11 @@
                    
                     
                 </div>
-                <div class="col-6">
+                <div class="col-12 col-xl-6 mt-3 mt-md-0">
+                    <div class="bg-wrapper">
+                    <div class="bg-img"></div>
                     <img src="/images/image-mockups.png" alt="">
+                    </div>
                 </div>
             </div>
         </div>
@@ -235,5 +235,7 @@
 
    
     <script src="/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="/node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="/app/src/scss/js/custom.js"></script>
 </body>
 </html>
