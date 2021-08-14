@@ -1,5 +1,5 @@
 $(document).ready(function(){
     $('.navbar-toggler-icon').click(function(){
-        $('.navbar-toggler-icon').addClass('.activeIcon');
+        $('span').toggle('.activeIcon');
     })
 })
