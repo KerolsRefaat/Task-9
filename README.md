@@ -8,11 +8,6 @@ This is a solution to the Easybank landing page
 
   - Built With: HTML5 Markup , CSS , Javascript, SCSS
 
-## What We Learned
-
-  - We Learned a complete overview on how Github works and how to work from multiple devices on the same project/repositry
-
-
 ### Screenshot
 
 (Task-9/images/Project screenshot.jpg)
@@ -31,7 +26,8 @@ https://github.com/KerolsRefaat/Task-9
 
 ### What We learned
 
-We Learned file structures while using SCSS, using Github with a team, how to clone a project, modify and push.
+-  We Learned file structures while using SCSS, using Github with a team, how to clone a project, modify and push.
+- We Learned a complete overview on how Github works and how to work from multiple devices on the same project/repositry
 
 ### Continued development
 
