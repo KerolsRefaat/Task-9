@@ -40,7 +40,7 @@ JavaScript, File structuring and components placing
 
 ## Author
 
-- Website - [George & Kerols] (https://www.your-site.com)
+- Website - [George & Kerols]
 
 
 ## Acknowledgments
