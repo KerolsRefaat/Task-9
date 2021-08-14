@@ -7,6 +7,9 @@ This is a solution to the Easybank landing page
 ## Table of contents
 
   - Built With: HTML5 Markup , CSS , Javascript, SCSS
+
+## What We Learned
+
   - We Learned a complete overview on how Github works and how to work from multiple devices on the same project/repositry
 
 
@@ -26,7 +29,7 @@ https://github.com/KerolsRefaat/Task-9
 - Jquery
 - SCSS
 
-### What I learned
+### What We learned
 
 We Learned file structures while using SCSS, using Github with a team, how to clone a project, modify and push.
 
@@ -36,7 +39,7 @@ JavaScript, File structuring and components placing
 
 ### Useful resources
 
-- [Live example of the site](https://magdakok.github.io/Easybank/) - This helped me with the button component CSS.
+-(https://magdakok.github.io/Easybank/) - This helped me with the button component CSS.
 
 ## Author
 
