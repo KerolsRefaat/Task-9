@@ -1,0 +1,23 @@
+@use "../globals";
+
+.navbar-light .navbar-toggler-icon span {
+    height: 2px;
+    background-color: black;
+    width: 35px;
+    display: block;
+    margin: 6px 0;
+    border-radius: 8px;
+    transition: .7 ease;
+}
+
+.navbar-light .navbar-toggler-icon.activeIcon .line2 {
+    opacity: 0;
+}
+
+.navbar-light .navbar-toggler-icon.activeIcon .line1 {
+    transform: rotate(45deg) translate(5px, 9px);
+}
+
+.navbar-light .navbar-toggler-icon.activeIcon .line3 {
+    transform: rotate(-45deg) translate(2px, -6px);
+}
