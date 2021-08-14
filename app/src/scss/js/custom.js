@@ -1,5 +1,4 @@
-$(document).ready(function(){
-    $('.navbar-toggler-icon').click(function(){
-        $('.navbar-toggler-icon span').toggleClass('.active-Icon');
-    })
-})
+$('.navbar-toggler').click(function(){
+    $('.navbar-toggler-icon').toggleClass('active-Icon');
+});
+

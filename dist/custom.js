@@ -1,2 +1,2 @@
-"use strict";$(document).ready((function(){$(".navbar-toggler-icon").click((function(){$(".navbar-toggler-icon span").toggleClass(".active-Icon")}))}));
+"use strict";$(".navbar-toggler").click((function(){$(".navbar-toggler-icon").toggleClass("active-Icon")}));
 //# sourceMappingURL=custom.js.map
